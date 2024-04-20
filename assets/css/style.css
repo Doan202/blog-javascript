@@ -1,0 +1,64 @@
+.box {
+  display: flex;
+  margin-right: 10px;
+  margin-top: 50px;
+}
+
+.box1 {
+  background-color: red;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.box2 {
+  background-color: green;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.box3 {
+  background-color: yellow;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.box4 {
+  background-color: orange;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.box5 {
+  background-color: black;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.box6 {
+  background-color: violet;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.btn-plus {
+  margin: 50px;
+}
+
+.btn-minus {
+  margin: 50px;
+}
+
+p {
+  background-color: #fff;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  align-items: center;
+  width: 100%;
+}/*# sourceMappingURL=style.css.map */
